@@ -1,0 +1,14 @@
+D:\Estudo\.NET\Programa4\bin\Debug\net8.0\Programa4.exe
+D:\Estudo\.NET\Programa4\bin\Debug\net8.0\Programa4.deps.json
+D:\Estudo\.NET\Programa4\bin\Debug\net8.0\Programa4.runtimeconfig.json
+D:\Estudo\.NET\Programa4\bin\Debug\net8.0\Programa4.dll
+D:\Estudo\.NET\Programa4\bin\Debug\net8.0\Programa4.pdb
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.AssemblyInfoInputs.cache
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.AssemblyInfo.cs
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.csproj.CoreCompileInputs.cache
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.dll
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\refint\Programa4.dll
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.pdb
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\Programa4.genruntimeconfig.cache
+D:\Estudo\.NET\Programa4\obj\Debug\net8.0\ref\Programa4.dll

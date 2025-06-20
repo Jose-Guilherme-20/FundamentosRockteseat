@@ -1,0 +1,14 @@
+D:\Estudo\.NET\FundamentosRockteseat\bin\Debug\net8.0\FundamentosRockteseat.exe
+D:\Estudo\.NET\FundamentosRockteseat\bin\Debug\net8.0\FundamentosRockteseat.deps.json
+D:\Estudo\.NET\FundamentosRockteseat\bin\Debug\net8.0\FundamentosRockteseat.runtimeconfig.json
+D:\Estudo\.NET\FundamentosRockteseat\bin\Debug\net8.0\FundamentosRockteseat.dll
+D:\Estudo\.NET\FundamentosRockteseat\bin\Debug\net8.0\FundamentosRockteseat.pdb
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.AssemblyInfoInputs.cache
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.AssemblyInfo.cs
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.csproj.CoreCompileInputs.cache
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.dll
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\refint\FundamentosRockteseat.dll
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.pdb
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\FundamentosRockteseat.genruntimeconfig.cache
+D:\Estudo\.NET\FundamentosRockteseat\obj\Debug\net8.0\ref\FundamentosRockteseat.dll

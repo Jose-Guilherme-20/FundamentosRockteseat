@@ -1,0 +1,14 @@
+D:\Estudo\.NET\programa6\bin\Debug\net8.0\programa6.exe
+D:\Estudo\.NET\programa6\bin\Debug\net8.0\programa6.deps.json
+D:\Estudo\.NET\programa6\bin\Debug\net8.0\programa6.runtimeconfig.json
+D:\Estudo\.NET\programa6\bin\Debug\net8.0\programa6.dll
+D:\Estudo\.NET\programa6\bin\Debug\net8.0\programa6.pdb
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.AssemblyInfoInputs.cache
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.AssemblyInfo.cs
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.csproj.CoreCompileInputs.cache
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.dll
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\refint\programa6.dll
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.pdb
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\programa6.genruntimeconfig.cache
+D:\Estudo\.NET\programa6\obj\Debug\net8.0\ref\programa6.dll

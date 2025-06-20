@@ -1,0 +1,14 @@
+D:\Estudo\.NET\Programa3\bin\Debug\net8.0\Programa3.exe
+D:\Estudo\.NET\Programa3\bin\Debug\net8.0\Programa3.deps.json
+D:\Estudo\.NET\Programa3\bin\Debug\net8.0\Programa3.runtimeconfig.json
+D:\Estudo\.NET\Programa3\bin\Debug\net8.0\Programa3.dll
+D:\Estudo\.NET\Programa3\bin\Debug\net8.0\Programa3.pdb
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.AssemblyInfoInputs.cache
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.AssemblyInfo.cs
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.csproj.CoreCompileInputs.cache
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.dll
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\refint\Programa3.dll
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.pdb
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\Programa3.genruntimeconfig.cache
+D:\Estudo\.NET\Programa3\obj\Debug\net8.0\ref\Programa3.dll
